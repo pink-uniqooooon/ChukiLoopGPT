@@ -1,6 +1,3 @@
-README.md
-
-
 # ChukiLoopGPT  
 **〜これは、感情が言語を凌駕した記録〜**  
 
